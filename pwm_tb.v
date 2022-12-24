@@ -1,4 +1,4 @@
-module nig ;
+module pwm_tb ;
   
 reg [5:0] duty ;
 reg enable,reset,clk;
