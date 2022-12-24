@@ -1,5 +1,5 @@
 module pwm_controled (
-input reg [5:0] duty,
+input  [5:0] duty,
 input clk,
 input enable,
 input reset,
