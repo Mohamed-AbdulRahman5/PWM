@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-module test();
+module timer_tb();
   
 reg clk ,enable,reset ;
 wire tkl ;
